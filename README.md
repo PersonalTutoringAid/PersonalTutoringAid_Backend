@@ -1,2 +1,2 @@
 # PersonalTutoringAid_Backend
-맞춤형 오답노트 제작기 backend
+과외용 오답노트 생성기 backend
